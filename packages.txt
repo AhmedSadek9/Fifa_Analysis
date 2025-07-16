@@ -1,6 +1,0 @@
-matplotlib
-pandas
-plotly
-plotly-express
-streamlit
-wordcloud
